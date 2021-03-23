@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import './layouts.css';
+@import './modules.css';
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: rgba(95, 173, 196, 0.616);
+}
+
+main{
+    display: flex;
+    border: 2px solid rgba(95, 173, 196, 0.616);
+    border-radius: 50px;
+    background-color: whitesmoke;
+
+}
+
+footer{
+    margin-top: 50px;
+    height: 150px;
+}
